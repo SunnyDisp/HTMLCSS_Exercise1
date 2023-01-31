@@ -1,0 +1,40 @@
+body {
+    padding: 20px 20px 20px 20px;
+    border: 3px solid black;
+    background: url(white.jpg) white center repeat;
+}
+
+header {
+    font-family: "Cedarville Cursive" ;
+    /* font-size: 100%; */
+    /* color: #fab500; */
+    text-shadow: 2px 2px gainsboro;   
+}
+
+section {
+    text-align: justify;
+    font-family: "Barlow Condensed";
+}
+
+h2 {
+    font-family: "Cedarville Cursive" ;
+    text-shadow: 2px 2px gainsboro;   
+}
+
+p {
+    font-size: 17px;
+}
+
+footer {
+    text-align: center;
+    font-family: "Barlow Condensed";
+} 
+
+a {
+    font-family: "Cedarville Cursive" ;
+    color: #fab500;
+    font-size: 30px;
+    font-weight: bolder;
+    text-shadow: 2px 2px gainsboro;  
+    text-decoration: none;
+}
